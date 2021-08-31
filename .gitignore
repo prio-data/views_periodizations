@@ -1,0 +1,11 @@
+*.py[cod]
+__pycache__/
+venv/
+.vim/
+.mypy_cache/
+.env
+.script.py
+*.sqlite
+*.png
+*.dot
+.env
